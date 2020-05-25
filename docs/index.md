@@ -24,7 +24,7 @@ Replace the elements below to insert your picture.
 **This is my day one reflection:
 I have always been interested in coding and electronics, but have struggled to find the time to take courses during the regular university semester. When I discovered this course, I instantly knew that it would be my first choice module. After the first day, I am glad to say that I am very happy with the decision. In only a few short hours, we learnt how to create a webpage, using Github, and how to individualize our sites using markdowns. In terms of takeaways from the entire module, I am hoping to improve my overall knowledge regarding coding. Furthermore, I am hoping to gain a working understanding of the  arduino software system. I have seen first hand the massive range of possibilities that can be achieved using this software, and am excited to try it out myself! After using a number of open source softwares in the Drones and 3D mapping module, I am very excited to try out the arduino software and see what I can learn to create in the upcoming week. I anticipate that this week will be a difficult, but manageable workload due to the very clear and well formatted instructions posted on the worksheet pages.**
 
-![Arduino Button](docs/images/IMG-0417.jpg)
+![](images/IMG-0417.jpg)
 
 ## Day 2: Results
 <!--
