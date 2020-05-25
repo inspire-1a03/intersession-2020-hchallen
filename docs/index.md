@@ -35,7 +35,7 @@ Provide a short (~150 words) summary of your work on this circuit:
 - What worked? What didn't? 
 - Be sure to link to your code (in your GitHub repository) in the text of your response.
 -->
-![](images/thermester.ino)
+![](docs/images/thermester.ino)
 
 ## Arduino build-off results
 <!--
