@@ -40,10 +40,8 @@ Provide a short (~150 words) summary of your work on this circuit:
 ![](docs/thermistor___RBG_v5.ino)
 
 ## Arduino build-off results
-<!--
-Upload your fully-commented Arduino sketch from the final product of your Arduino build-off into the top-level of your module GitHub repository.
+[Final Project Sketch](https://github.com/inspire-1a03/intersession-2020-hchallen/blob/master/docs/ex._17__final_may22.ino)
 
-![Final Project Sketch](https://github.com/inspire-1a03/intersession-2020-hchallen/blob/master/ex._17__final_may22.ino)
 
 In ~300 words, provide a final device description and product pitch: 
 - What does it do? Use a table (created in markdown) to list and describe the features. You can use the template provided below. 
