@@ -43,7 +43,7 @@ Provide a short (~150 words) summary of your work on this circuit:
 <!--
 Upload your fully-commented Arduino sketch from the final product of your Arduino build-off into the top-level of your module GitHub repository.
 
-![](C:\Users\hchal\OneDrive\Documents\Arduino\ex._17__final_may22)
+![](docs/ex._17__final_may22.ino)
 
 In ~300 words, provide a final device description and product pitch: 
 - What does it do? Use a table (created in markdown) to list and describe the features. You can use the template provided below. 
