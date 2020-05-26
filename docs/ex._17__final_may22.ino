@@ -74,7 +74,12 @@ int greenPin = 10;
 int bluePin = 9;
 
 //uncomment this line if using a Common Anode LED
-//#define COMMON_ANODE
+#define COMMON_ANODE
+
+
+int sensorPin = A1;    // select the input pin for the potentiometer
+int ledPin = 13;      // select the pin for the LED
+int sensorValue = 0;  // variable to store the value coming from the sensor
 
 void setup()
 {
@@ -82,6 +87,8 @@ void setup()
   pinMode(redPin, OUTPUT);
   pinMode(greenPin, OUTPUT);
   pinMode(bluePin, OUTPUT);  
+  // declare the ledPin as an OUTPUT:
+  pinMode(ledPin, OUTPUT);
 }
 
 void loop()
@@ -94,15 +101,27 @@ void loop()
   //Serial.print(", Fahrenheit: ");
   //Serial.print(temp,1);                             // display  Fahrenheit
   Serial.println("");  
-
-if(temp >26){
+  
+  // read the value from the sensor:
+  sensorValue = analogRead(sensorPin);
+  // print the value to the monitor
+Serial.print("Light: ");
+Serial.print(sensorValue,1); 
+Serial.println("");
+  
+if(temp >31){
   setColor(255, 0, 0) ; // red
+tone(8, 262, 1000);
 } 
-else if(temp > 22 & temp < 26) {
+else if(temp > 22 & temp < 31) {
   setColor(0, 255, 0);  //green
 }
 else {
   setColor(0, 0, 255); // blue
+}
+
+if(sensorValue < 500) {
+tone(8, 700, 1000);  
 }
   delay(1000) ;
 }
