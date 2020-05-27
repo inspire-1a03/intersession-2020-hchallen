@@ -64,16 +64,6 @@ Serial.print(sensorValue,1);
 Serial.println("");  
 ```
 
-In ~300 words, provide a final device description and product pitch: 
-- What does it do? Use a table (created in markdown) to list and describe the features. You can use the template provided below. 
-- Describe briefly how it works.
-- How could it be used in everyday life (or maybe just in rare cases)? 
-- Be sure to link to your code (in your GitHub repository) in the text of your response.
-- Include a snippet of code using the ``` ``` characters to display the code properly. 
-Finally, record a short (30 second) video of a 'product pitch' for your device. 
-- Upload the video to Youtube, and use the sample code below to embed your video.
--->
-
 
 <!--
 Below is a general markdown table template. 
@@ -86,7 +76,7 @@ You can find more information at these links:
 |-------------|:---------------------------------------------------------------------------------------------------------:|
 |Photoresistor|Allows the device to determine when the plants are not receiving enough light                              |
 |RGB LED      |Gives the device the ability to visually communiate information using a colour coded system                |            |Thermometer  |Monitors termperatures in order to tell if it is too hot or too cold for the plants                        |     
-| Buzzer      |Provides an audio commponent to the device to communicate the information that the device provides         |
+|Buzzer       |Provides an audio commponent to the device to communicate the information that the device provides         |
 
 **Arduino-Beeno3000: 
 The Arduino-Beeno3000 is a cutting edge piece of agricultural technology. Using a Photoresisitor, a RGB LED, a buzzer and a thermometer the Arduino-Beeno3000 combines many of the basic arduino tools to create an effective and practical application. The device allows farmers, whether they be farming on a household or industrial scale, to carefully monitor key aspects that directly affect the health and safety of their plants. The Arduino-Beeno3000 comes fully equipped with temperature-measuring and light-monitoring technology. Due to the presence of a RGB ELD and a fully customizable buzzer, you will never miss a beat when it comes to the safety of your plants. Every farm in North America, big or small, can benefit from the Arduino-Beeno3000!**
@@ -105,8 +95,8 @@ Note that this video won't show when previewing the document in GitHub--it only 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Kh423OQsQEM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Final reflection & summary
-<!--
-In ~300 words:
-- Summarize your experience in this module. What you learned, what you liked, what you found challenging.
-- Reflect upon your learning and its relevance in your life.
--->
+**Overall, I was thoroughly impressed with this module and what it had to offer in terms of both the declarative and procedural knowledge that I was able to quickly gain. As someone who has always been simultaneously intimidated and fascinated by coding, this course offered an excellent and well planned out first step into a world that can often seem exclusive and difficult to enter. 
+Even though I am certain that the course would have been excellent in person, I really enjoyed the online lectures and the really well formatted website. I found myself being able to answer most, if not all, of the questions I had when working on the deliverables by simply looking at the website. 
+There were many aspects of the course that I thoroughly enjoyed, but one that stood out in particular was the thermistor and RGD session. I found it very interesting and satisfying to see that ways in which the two separate devices could easily be combined using both their code and the physical arduino to make a new project. After experiencing that activity, it became clear that the arduino is a very unique and interesting device, with many real world applications. When I started trying to create my own arduino device, I was blown away by the community that exists online, and the thousands of people who are willing and eager to help each other problem solve and debug sketches. 
+I am now in the process of buying my own arduino set. My mom has a lot of gardens on our property that provide a healthy supplement of fruits and vegetables during the summer. I believe that I will be able to use simple code and arduino materials to help automate many of the processes that we have to undertake on a daily basis to maintain the garden. I am planning on building an automated plant waterer using a soil moisture-tester and a water pump when the supplies arrive!**
+
