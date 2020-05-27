@@ -41,7 +41,25 @@ Provide a short (~150 words) summary of your work on this circuit:
 
 ## Arduino build-off results
 [Final Project Sketch](https://github.com/inspire-1a03/intersession-2020-hchallen/blob/master/docs/ex._17__final_may22.ino)
-
+```
+void loop()
+{
+ float temp;
+  temp=Thermistor(analogRead(ThermistorPIN));       // read ADC and  convert it to Celsius
+  Serial.print("Celsius: ");
+  Serial.print(temp,1);                             // display Celsius
+  //temp = (temp * 9.0)/ 5.0 + 32.0;                  // converts to  Fahrenheit
+  //Serial.print(", Fahrenheit: ");
+  //Serial.print(temp,1);                             // display  Fahrenheit
+  Serial.println("");  
+  
+  // read the value from the sensor:
+  sensorValue = analogRead(sensorPin);
+  // print the value to the monitor
+Serial.print("Light: ");
+Serial.print(sensorValue,1); 
+Serial.println("");  
+```
 
 In ~300 words, provide a final device description and product pitch: 
 - What does it do? Use a table (created in markdown) to list and describe the features. You can use the template provided below. 
@@ -67,6 +85,7 @@ You can find more information at these links:
 |RGB LED      |Gives the device the ability to visually communiate information using a colour coded system                |            |Thermometer  |Allows the device to monitor termperatures and communicate whether it is too hot or too cold for the plants|
 | Buzzer      |Provides an audio commponent to the device to communicate the information that the device provides         |
 
+**Brief description: The Arduino-Beeno3000 is a cutting edge piece of agricultural technology. The device allows farmers, whether they be farming  on a household or industrial scale, to carefully monitor key aspects that directly affect the health and safety of their plants. The Arduino-Beeno3000 comes fully equipped with temperature measuring and light monitoring technology. Due to the presence of a RGB ELD and a fully customizable buzzer, you will never miss a beat when it comes to the safety of your plants. I strongly believe that every farmer in NorthAmerican, big or small, can benefit from the Arduino-Beeno3000!**
 
 
 <!--
