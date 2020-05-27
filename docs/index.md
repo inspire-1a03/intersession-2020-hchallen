@@ -40,7 +40,10 @@ Provide a short (~150 words) summary of your work on this circuit:
 ![](docs/thermistor___RBG_v5.ino)
 
 ## Arduino build-off results
+# Check out my code!
 [Final Project Sketch](https://github.com/inspire-1a03/intersession-2020-hchallen/blob/master/docs/ex._17__final_may22.ino)
+
+# Sample code
 ```
 void loop()
 {
@@ -88,7 +91,7 @@ You can find more information at these links:
 **Arduino-Beeno3000: 
 The Arduino-Beeno3000 is a cutting edge piece of agricultural technology. Using a Photoresisitor, a RGB LED, a buzzer and a thermometer the Arduino-Beeno3000 combines many of the basic arduino tools to create an effective and practical application. The device allows farmers, whether they be farming on a household or industrial scale, to carefully monitor key aspects that directly affect the health and safety of their plants. The Arduino-Beeno3000 comes fully equipped with temperature-measuring and light-monitoring technology. Due to the presence of a RGB ELD and a fully customizable buzzer, you will never miss a beat when it comes to the safety of your plants. Every farm in North America, big or small, can benefit from the Arduino-Beeno3000!**
 
-*The Arduino-Beeno300*
+# The Arduino-Beeno3000
 ![](images/arduino pic.jpg)
 
 <!--
@@ -98,7 +101,7 @@ Note that this video won't show when previewing the document in GitHub--it only 
 - You can paste this code directly into your markdown document. 
 - Note that you may want to adjust the width and height parameters to make it fit well in your webpage
 -->
-
+# Shamless Plug...
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Kh423OQsQEM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Final reflection & summary
