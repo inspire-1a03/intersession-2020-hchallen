@@ -37,6 +37,9 @@ Provide a short (~150 words) summary of your work on this circuit:
 - What worked? What didn't? 
 - Be sure to link to your code (in your GitHub repository) in the text of your response.
 -->
+This device works by connecting the thermistor to a RGB LED using a relatively simple circuit. In the code, the thermistor prints the temperature, in celsius, to the console. Then, using a simple if, else if and else function, the code then determines which colour to flash on the LED based on the temperature measured by the thermistor. 
+For me, the challenging part came from setting up the circuit. At times,I had trouble connecting the cable cables to the right ports on the breadboard. Furthermore, when I first tried to make the colours change on the LED, my room was too cold so I was not able to create enough heat. I was able to simply fix this by changing the permeameters in the code meaning that the colour would change at a lower temperature. Luckily we worked on this in class and in the office hours, so I was able to troubleshoot issues such as this with my classmates and the example provided in class. This resulted in my final product essentially functioning perfectly. 
+
 [Thermometer Connected to an RBD LED](https://github.com/inspire-1a03/intersession-2020-hchallen/blob/master/docs/thermistor___RBG_v5.ino)
 
 ## Arduino build-off results
