@@ -82,7 +82,7 @@ You can find more information at these links:
 | Feature     |                                           Description                                                     |
 |-------------|:---------------------------------------------------------------------------------------------------------:|
 |Photoresistor|Allows the device to determine when the plants are not receiving enough light                              |
-|RGB LED      |Gives the device the ability to visually communiate information using a colour coded system                |            |Thermometer  |Allows the device to monitor termperatures and tell if it is too hot or too cold for the plants            |     
+|RGB LED      |Gives the device the ability to visually communiate information using a colour coded system                |            |Thermometer  |Monitors termperatures in order to tell if it is too hot or too cold for the plants                        |     
 | Buzzer      |Provides an audio commponent to the device to communicate the information that the device provides         |
 
 **Arduino-Beeno3000: 
@@ -99,8 +99,7 @@ Note that this video won't show when previewing the document in GitHub--it only 
 - Note that you may want to adjust the width and height parameters to make it fit well in your webpage
 -->
 
-<iframe width="789" height="444" src="https://www.youtube.com/watch?v=Kh423OQsQEM"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Kh423OQsQEM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Final reflection & summary
 <!--
