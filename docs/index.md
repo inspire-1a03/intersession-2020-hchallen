@@ -60,13 +60,13 @@ You can find more information at these links:
 - https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#tables
 
 -->
-**
+
 | Feature     |                                           Description                                                     |
-|-------------| --------------------------------------------------------------------------------------------------------- |
+|-------------|:---------------------------------------------------------------------------------------------------------:|
 |Photoresistor|Allows the device to determine when the plants are not receiving enough light                              |
 |RGB LED      |Gives the device the ability to visually communiate information using a colour coded system                |            |Thermometer  |Allows the device to monitor termperatures and communicate whether it is too hot or too cold for the plants|
 | Buzzer      |Provides an audio commponent to the device to communicate the information that the device provides         |
-**
+
 
 
 <!--
