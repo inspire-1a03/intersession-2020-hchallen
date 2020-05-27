@@ -82,10 +82,11 @@ You can find more information at these links:
 | Feature     |                                           Description                                                     |
 |-------------|:---------------------------------------------------------------------------------------------------------:|
 |Photoresistor|Allows the device to determine when the plants are not receiving enough light                              |
-|RGB LED      |Gives the device the ability to visually communiate information using a colour coded system                |            |Thermometer  |Allows the device to monitor termperatures and communicate whether it is too hot or too cold for the plants|
+|RGB LED      |Gives the device the ability to visually communiate information using a colour coded system                |            |Thermometer  |Allows the device to monitor termperatures and tell if it is too hot or too cold for the plants            |     
 | Buzzer      |Provides an audio commponent to the device to communicate the information that the device provides         |
 
-**Brief description: The Arduino-Beeno3000 is a cutting edge piece of agricultural technology. The device allows farmers, whether they be farming  on a household or industrial scale, to carefully monitor key aspects that directly affect the health and safety of their plants. The Arduino-Beeno3000 comes fully equipped with temperature measuring and light monitoring technology. Due to the presence of a RGB ELD and a fully customizable buzzer, you will never miss a beat when it comes to the safety of your plants. I strongly believe that every farmer in NorthAmerican, big or small, can benefit from the Arduino-Beeno3000!**
+*Arduino-Beeno3000: 
+The Arduino-Beeno3000 is a cutting edge piece of agricultural technology. Using a Photoresisitor, a RGB LED, a buzzer and a thermometer the Arduino-Beeno3000 combines many of the basic arduino tools to create an effective and practical application. The device allows farmers, whether they be farming on a household or industrial scale, to carefully monitor key aspects that directly affect the health and safety of their plants. The Arduino-Beeno3000 comes fully equipped with temperature-measuring and light-monitoring technology. Due to the presence of a RGB ELD and a fully customizable buzzer, you will never miss a beat when it comes to the safety of your plants. Every farm in North America, big or small, can benefit from the Arduino-Beeno3000!**
 
 
 <!--
