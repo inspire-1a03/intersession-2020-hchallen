@@ -37,7 +37,7 @@ Provide a short (~150 words) summary of your work on this circuit:
 - What worked? What didn't? 
 - Be sure to link to your code (in your GitHub repository) in the text of your response.
 -->
-![](docs/thermistor___RBG_v5.ino)
+[Thermometer Connected to an RBD LED](https://github.com/inspire-1a03/intersession-2020-hchallen/blob/master/docs/thermistor___RBG_v5.ino)
 
 ## Arduino build-off results
 # Check out my code!
