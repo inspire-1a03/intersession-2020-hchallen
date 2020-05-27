@@ -43,10 +43,10 @@ For me, the challenging part came from setting up the circuit. At times,I had tr
 [Thermometer Connected to an RBD LED](https://github.com/inspire-1a03/intersession-2020-hchallen/blob/master/docs/thermistor___RBG_v5.ino)
 
 ## Arduino build-off results
-# Check out my code!
+**Check out my code!**
 [Final Project Sketch](https://github.com/inspire-1a03/intersession-2020-hchallen/blob/master/docs/ex._17__final_may22.ino)
 
-# Sample code
+**Sample code**
 ```
 void loop()
 {
@@ -94,7 +94,7 @@ Note that this video won't show when previewing the document in GitHub--it only 
 - You can paste this code directly into your markdown document. 
 - Note that you may want to adjust the width and height parameters to make it fit well in your webpage
 -->
-# Shamless Plug...
+**Shamless Plug...**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Kh423OQsQEM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Final reflection & summary
